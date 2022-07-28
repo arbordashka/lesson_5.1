@@ -6,8 +6,7 @@ public class Person {
         public String email;
         public String phone;
         public int salary;
-        public int age; //коммент
-
+        public int age;
         public Person (String name, String position, String email, String phone, int salary, int age) {
                 this.name = name;
                 this.position = position;
