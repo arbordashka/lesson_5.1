@@ -14,7 +14,7 @@ public class Person {
                 this.phone = phone;
                 this.salary = salary;
                 this.age = age;
-                //коммент
+
 
         }
 
