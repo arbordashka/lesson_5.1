@@ -3,6 +3,7 @@ package lesson_5_1;
 public class Main {
     public static void  main (String [] args){
 
+
         Person[] persArray = new Person[5];
         persArray[0] = new Person("Ivanov Petr", "Engineer1", "petr@mailbox.com", "892165812", 32500, 38);
         persArray[1] = new Person("Ivanov Ivan", "Engineer2", "ivivan@mailbox.com", "892312312", 30000, 30);
