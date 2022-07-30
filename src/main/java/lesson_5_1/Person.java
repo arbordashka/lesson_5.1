@@ -7,7 +7,7 @@ public class Person {
         public String phone;
         public int salary;
         public int age;
-        public Person (String name, String position, String email, String phone, int salary, int age) {
+        public Person (String name, String position, String email, String phone, int salary, int age) {//комментарий
                 this.name = name;
                 this.position = position;
                 this.email = email;
